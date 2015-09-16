@@ -1,0 +1,27 @@
+Avto Nissan Almera
+
+Avto Nissan Teana
+
+Avto Lada Kalina
+
+Avto Lada Priora
+
+Avto Toyota Corolla
+
+Avto Toyota Camry
+
+Avto Toyota Rav4
+
+Avto Toyota Avensis
+
+Moto Yamaha YZF-R6
+
+Moto Yamaha YZF-R1
+
+Moto Suzuki V-Storm
+
+Airplane Boeing 747
+
+Airplane Airbus   A310
+
+Airplane Airbus  A320
